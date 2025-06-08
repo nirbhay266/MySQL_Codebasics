@@ -1,4 +1,4 @@
-# 📊 Codebasics SQL Course – Complete SQL Journey for Data Analytics
+# 📊Complete SQL Journey for Data Analytics
 
 ![Codebasics SQL](https://codebasics.io/_next/image?url=%2Fimages%2Fsql-cover.jpg&w=1080&q=75)
 
@@ -114,5 +114,3 @@ If you're also learning SQL or Data Analytics, feel free to connect with me:
 > **“Data is the new oil — and SQL is the pipeline.”** 🚀
 
 ---
-
-# MySQL_Codebasics
